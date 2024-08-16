@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/natanael.lopes/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/jape.jar"/>
+	<classpathentry kind="lib" path="C:/Users/natanael.lopes/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/natanael.lopes/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/mgecom-model-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/natanael.lopes/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/mge-modelcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/natanael.lopes/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/SankhyaW-extensions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/natanael.lopes/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/sanutil.jar"/>
+	<classpathentry kind="lib" path="C:/Users/natanael.lopes/SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/sanws.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
